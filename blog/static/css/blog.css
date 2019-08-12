@@ -16,6 +16,7 @@ font-family: 'Lobster', cursive;
 }
 .date {
 color: #828282;
+float: right;
 }
 .save {
 float: right;
